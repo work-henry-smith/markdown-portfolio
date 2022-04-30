@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Here is a list of my favorite things to do:
+- Going out for a walk
+- Doing exercies
+- Playing tennis
+- Watching sports
+- Eating out
